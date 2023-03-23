@@ -1,16 +1,15 @@
 
-<h1 ">Hi 👋, I'm NITISH KUMAR MIGLANI</h1>
-<h3 >COMPILING TECH ENGINEER</h3>
+<h1 ">Hi 👋, I'm Nikshay Mohla</h1>
+<h3>Upcoming Software Devlopment Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 👨‍💻Check out [https://nitishmig26.github.io/Portfolio/](https://nitishmig26.github.io/Portfolio/)
+- 👨‍💻Check out [https://github.com/NikshayMohla/Portfolio](https://NikshayMohla.github.io/Portfolio/)
 
-- 📫 How to reach me - **nitishmiglani2002@gmail.com**
+- 📫 How to reach me - **imnikshay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitish-miglani-b34839136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-miglani-b34839136" height="30" width="40" /></a>
-<a href="https://instagram.com/nitish_mig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish_mig" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikshay-mohla-41a042216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-miglani-b34839136" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
