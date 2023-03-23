@@ -1,6 +1,6 @@
 
 <h1 ">Hi 👋, I'm Nikshay Mohla</h1>
-<h3>Upcoming Software Devlopment Engineer</h3>
+<h3>Aspiring Software Devlopment Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 👨‍💻Check out [https://github.com/NikshayMohla/Portfolio](https://NikshayMohla.github.io/Portfolio/)
