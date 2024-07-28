@@ -1,16 +1,48 @@
+# Hi there, I'm Nikshay Mohla! 👋
 
-<h1 ">Hi 👋, I'm Nikshay Mohla</h1>
-<h3>Aspiring Software Devlopment Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+Welcome to my GitHub profile! I'm an aspiring full-stack developer with a passion for connecting ideas across disciplines and solving complex problems through tailored data and algorithms. I love creating efficient and effective solutions while ensuring clarity in communication, especially to non-technical stakeholders.
 
-- 👨‍💻Check out [https://github.com/NikshayMohla/Portfolio](https://NikshayMohla.github.io/Portfolio/)
+## 🚀 About Me
 
-- 📫 How to reach me - **imnikshay@gmail.com**
+- 🌱 I’m currently expanding my knowledge in **ExpressJS**, **NodeJS**, and **MongoDB**.
+- 💬 Ask me about **C++**, **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **SQL**, **Bootstrap**, and **Data Structures and Algorithms (DSA)**.
+- 👯 I’m looking to collaborate on full-stack or backend projects.
+- 📫 Reach me at [imnikshay@gmail.com](mailto:imnikshay@gmail.com).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nikshay-mohla-41a042216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-miglani-b34839136" height="30" width="40" /></a>
-</p>
+## 🛠 Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **Frontend**: HTML5, CSS3, JavaScript, ReactJS
+- **Backend**: NodeJS, ExpressJS
+- **Databases**: MongoDB, SQL
+- **Languages**: C++, Python, JavaScript
+- **Tools & Platforms**: Salesforce Platform, Postman, Git
+- **Other**: MERN Stack, XML, DSA
+
+## 🔗 Projects
+
+Here are a few projects I've been working on:
+
+- [**Picture Gallery**](https://github.com/NikshayMohla/picture_gallery): A dynamic gallery using Bootstrap and API calls.
+- [**File Upload Handler**](https://github.com/NikshayMohla/FileUploadHandler): A robust file upload handler built with Node.js.
+- [**Password Generator**](https://github.com/NikshayMohla/password-generator-by-nikshay): A simple yet effective password generator with customizable options.
+- [**Axxelio Project**](https://github.com/NikshayMohla/axxelio): A backend-centric full-stack project using Express, MongoDB, and NoSQL.
+
+## 🌟 Highlights
+
+- Solved 400+ questions on various coding platforms. Check out my [DSA repository](https://github.com/NikshayMohla/DSA).
+- Developed XSLT transformations for XML structures, enhancing data interoperability and streamlining processing efficiency.
+- Experience in using Postman for API calls and collaborating with cross-functional teams.
+
+## 🎓 Education
+
+- Bachelor’s degree in Engineering (Graduated August 2024).
+
+## 📈 Stats
+
+![Nikshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikshaymohla&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nikshaymohla&theme=radical)
+
+---
+
+Thank you for visiting my profile! Feel free to check out my repositories and connect with me if you find anything interesting. Let's create something amazing together!
